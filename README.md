@@ -1,4 +1,5 @@
-# SepsisApiDeployment
+# Sepsis Api
+
 The REST API endpoints are created here for our main project for sepsis prediction 
 > https://github.com/sourabhyadav999/SIHRepo
 
